@@ -5,11 +5,11 @@ Primeiro projeto em grupo com foco na criação de um protótipo de plataforma d
 ---
 
 ## 👥 Integrantes
--Isabela Silva Santos
 - Leonardo Franco Arakaki  
 - Murilo de Melo Sousa  
 - Samuel Liasch Alves  
 - Walisson Souza dos Santos
+- Isabela Silva Santos
 
 
 ---
